@@ -1,0 +1,6 @@
+C:\Users\pci161\Documents\Visual Studio 2013\Projects\SocketDataTransfer\TCPClient\bin\Debug\TCPClient.exe.config
+C:\Users\pci161\Documents\Visual Studio 2013\Projects\SocketDataTransfer\TCPClient\bin\Debug\TCPClient.exe
+C:\Users\pci161\Documents\Visual Studio 2013\Projects\SocketDataTransfer\TCPClient\bin\Debug\TCPClient.pdb
+C:\Users\pci161\Documents\Visual Studio 2013\Projects\SocketDataTransfer\TCPClient\obj\Debug\TCPClient.csprojResolveAssemblyReference.cache
+C:\Users\pci161\Documents\Visual Studio 2013\Projects\SocketDataTransfer\TCPClient\obj\Debug\TCPClient.exe
+C:\Users\pci161\Documents\Visual Studio 2013\Projects\SocketDataTransfer\TCPClient\obj\Debug\TCPClient.pdb

@@ -1,0 +1,6 @@
+C:\Users\pci161\Documents\Visual Studio 2013\Projects\SocketDataTransfer\SocketDataTransfer\bin\Debug\SocketDataTransfer.exe.config
+C:\Users\pci161\Documents\Visual Studio 2013\Projects\SocketDataTransfer\SocketDataTransfer\bin\Debug\SocketDataTransfer.exe
+C:\Users\pci161\Documents\Visual Studio 2013\Projects\SocketDataTransfer\SocketDataTransfer\bin\Debug\SocketDataTransfer.pdb
+C:\Users\pci161\Documents\Visual Studio 2013\Projects\SocketDataTransfer\SocketDataTransfer\obj\Debug\TCPListner.csprojResolveAssemblyReference.cache
+C:\Users\pci161\Documents\Visual Studio 2013\Projects\SocketDataTransfer\SocketDataTransfer\obj\Debug\SocketDataTransfer.exe
+C:\Users\pci161\Documents\Visual Studio 2013\Projects\SocketDataTransfer\SocketDataTransfer\obj\Debug\SocketDataTransfer.pdb
